@@ -39,7 +39,7 @@ export default function App() {
             each screen using the "component" parameter. */}
         <Stack.Screen
           options={StackOptions}
-          name="Match the Members"
+          name="Match the Members boooooooo"
           component={HomeScreen}
         />
         <Stack.Screen
